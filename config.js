@@ -10,7 +10,7 @@ window.Config = {
   ],
 
   // 日志天数
-  CountDays: 60,
+  CountDays: 90,
 
   // 是否显示检测站点的链接
   ShowLink: true,
@@ -18,7 +18,7 @@ window.Config = {
   // 导航栏菜单
   Navi: [
     {
-      text: 'UptimerRobot 统计页面',
+      text: 'UptimeRobot 统计页面',
       url: 'https://stats.uptimerobot.com/GrK5oIB79O',
     },
   ],
