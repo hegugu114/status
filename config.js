@@ -18,12 +18,8 @@ window.Config = {
   // 导航栏菜单
   Navi: [
     {
-      text: 'Stable',
-      url: 'https://stable.heyc.eu.org/'
-    },
-    {
-      text: 'GH Pages',
-      url: 'https://ghpages.heyc.eu.org'
+      text: 'UptimerRobot 统计页面',
+      url: 'https://stats.uptimerobot.com/GrK5oIB79O',
     },
   ],
 };
